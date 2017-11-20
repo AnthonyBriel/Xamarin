@@ -1,0 +1,16 @@
+C:\wamp\www\Xamarin\TPXamarin\TPXamarin\TPXamarin\bin\Debug\TPXamarin.dll
+C:\wamp\www\Xamarin\TPXamarin\TPXamarin\TPXamarin\bin\Debug\TPXamarin.pdb
+C:\wamp\www\Xamarin\TPXamarin\TPXamarin\TPXamarin\bin\Debug\Xamarin.Forms.Core.dll
+C:\wamp\www\Xamarin\TPXamarin\TPXamarin\TPXamarin\bin\Debug\Xamarin.Forms.Platform.dll
+C:\wamp\www\Xamarin\TPXamarin\TPXamarin\TPXamarin\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\wamp\www\Xamarin\TPXamarin\TPXamarin\TPXamarin\bin\Debug\Xamarin.Forms.Core.pdb
+C:\wamp\www\Xamarin\TPXamarin\TPXamarin\TPXamarin\bin\Debug\Xamarin.Forms.Core.xml
+C:\wamp\www\Xamarin\TPXamarin\TPXamarin\TPXamarin\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\wamp\www\Xamarin\TPXamarin\TPXamarin\TPXamarin\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\wamp\www\Xamarin\TPXamarin\TPXamarin\TPXamarin\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\wamp\www\Xamarin\TPXamarin\TPXamarin\TPXamarin\obj\Debug\TPXamarin.csprojResolveAssemblyReference.cache
+C:\wamp\www\Xamarin\TPXamarin\TPXamarin\TPXamarin\obj\Debug\TPXamarin.csproj.CoreCompileInputs.cache
+C:\wamp\www\Xamarin\TPXamarin\TPXamarin\TPXamarin\obj\Debug\TPXamarin.MainPage.xaml.g.cs
+C:\wamp\www\Xamarin\TPXamarin\TPXamarin\TPXamarin\obj\Debug\TPXamarin.App.xaml.g.cs
+C:\wamp\www\Xamarin\TPXamarin\TPXamarin\TPXamarin\obj\Debug\TPXamarin.dll
+C:\wamp\www\Xamarin\TPXamarin\TPXamarin\TPXamarin\obj\Debug\TPXamarin.pdb
